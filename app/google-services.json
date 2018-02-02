@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "492445459008",
+    "firebase_url": "https://qaapp-c2b62.firebaseio.com",
+    "project_id": "qaapp-c2b62",
+    "storage_bucket": "qaapp-c2b62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492445459008:android:a926c9a9760e185f",
+        "android_client_info": {
+          "package_name": "tanooka.hiroshi.techacademy.jp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492445459008-i02nh2jbtqj2e14qpggrhvqook1jrumt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8MnwGoT4mRA1bmRkR-DAHBEb0JRE2G3c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492445459008:android:6729f4bdd04bbb1d",
+        "android_client_info": {
+          "package_name": "jp.techacademy.hiroshi.tanooka.qa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492445459008-i02nh2jbtqj2e14qpggrhvqook1jrumt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8MnwGoT4mRA1bmRkR-DAHBEb0JRE2G3c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
